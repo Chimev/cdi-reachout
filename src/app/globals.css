@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.pp{
+    font-size: x-large;
+    font-weight: 800;
+}
